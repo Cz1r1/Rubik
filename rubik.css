@@ -1,0 +1,44 @@
+body{
+ color: #443502;
+  background-color: #ededc1;
+    background-image: url(hatterkocka.png);
+  background-size: 70px 70px;
+  background-repeat: repeat-y;
+  background-position: right top;
+  padding: 15px 95px 15px 15px;
+}
+}
+
+#cimkep{
+   height: 170px;
+  float:left;  
+}
+
+h2{
+  margin: 40px 0px 100px 175px;
+}
+
+p{
+  text-align: justify;
+    margin: 10px;
+}
+
+
+.jobbra{
+  text-align: right;
+}
+
+.erdekesseg{
+  font-size: 70%;
+  padding: 7px;
+  font-weight: normal;
+    font-style: italic;
+    background-color: lightgray;
+}
+
+li{
+  font-weight:bold;
+    list-style-type: square;
+    
+}
+}
